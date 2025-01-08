@@ -1,4 +1,4 @@
 # Chapter 1
 hello!!!
 
-![myphoto](images/turkey.jpg)
+![myphoto](images/turkey1.jpg)
